@@ -14,6 +14,16 @@
 
 <img src="https://komarev.com/ghpvc/?username=AnmolKumar632&label=PROFILE%20VIEWS&color=6366F1&style=for-the-badge" alt="Profile Views"/>
 
+<br/><br/>
+
+<a href="#-about-me">About</a> •
+<a href="#-currently">Currently</a> •
+<a href="#-tech-stack">Tech Stack</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#-github-analytics">Analytics</a> •
+<a href="#-content--community">Content</a> •
+<a href="#-lets-connect">Connect</a>
+
 </div>
 
 <br/>
@@ -24,12 +34,36 @@ I'm **Anmol Kumar**, an **AI Engineer & Data Scientist** focused on designing an
 
 Beyond building, I create content that breaks down AI and Data Science concepts for a wider audience — across **YouTube, Medium, and Instagram**.
 
-```
-🎯 Focus        →  Machine Learning · Deep Learning · NLP
-🧠 Mindset      →  Learn in public, build in the open
-📡 Content      →  Simplifying AI for creators & beginners
-🤝 Open to      →  AI/ML roles, collaborations, internships
-```
+- 🔭 Building projects across **ML, Deep Learning & NLP**
+- 🌱 Deepening my skills in **model deployment & MLOps**
+- 📡 Simplifying AI concepts through content, one post at a time
+- 🤝 Open to **AI/ML roles**, internships, and collaborations
+- ⚡ I turn "it doesn't work" into "it works" — usually at 2 AM
+
+<br/>
+
+## 🎯 Currently
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧠 Learning**
+- Advanced Deep Learning architectures
+- LLM fine-tuning & Retrieval-Augmented Generation
+- MLOps & model deployment pipelines
+
+</td>
+<td width="50%" valign="top">
+
+**🛠️ Building**
+- End-to-end ML projects for my portfolio
+- Content that simplifies AI for beginners
+- A stronger open-source presence
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -40,7 +74,7 @@ Beyond building, I create content that breaks down AI and Data Science concepts 
 <td valign="top" width="33%">
 
 **Languages & Core**
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -49,7 +83,7 @@ Beyond building, I create content that breaks down AI and Data Science concepts 
 <td valign="top" width="33%">
 
 **AI / ML / Data**
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
@@ -63,7 +97,7 @@ Beyond building, I create content that breaks down AI and Data Science concepts 
 <td valign="top" width="33%">
 
 **Tools & Platforms**
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
@@ -78,6 +112,18 @@ Beyond building, I create content that breaks down AI and Data Science concepts 
 
 <br/>
 
+## 💼 Featured Projects
+
+<!-- Replace REPO-ONE / REPO-TWO below with your actual repository names, or these cards will show "Repo not found" -->
+<div align="center">
+
+<a href="https://github.com/AnmolKumar632/REPO-ONE" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AnmolKumar632&repo=REPO-ONE&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/AnmolKumar632/REPO-TWO" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AnmolKumar632&repo=REPO-TWO&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+
+</div>
+
+<br/>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -87,6 +133,8 @@ Beyond building, I create content that breaks down AI and Data Science concepts 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnmolKumar632&theme=tokyonight&hide_border=true&background=0D1117"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnmolKumar632&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="100%"/>
+
 </div>
 
 <br/>
@@ -95,6 +143,16 @@ Beyond building, I create content that breaks down AI and Data Science concepts 
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=AnmolKumar632&theme=onedark&no-frame=true&row=1&column=7"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💬 Quote of the Moment
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
 </div>
 
 <br/>
@@ -111,9 +169,17 @@ Beyond building, I create content that breaks down AI and Data Science concepts 
 
 <br/>
 
-<div align="center">
+## 🎓 Education & Certifications
 
-### 🤝 Let's Build Something Great
+<!-- Replace with your actual degree / certifications -->
+- 🎓 *Add your degree, institution & year here*
+- 📜 *Add relevant AI/ML certifications here*
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
 
 Open to **AI/ML roles**, freelance work, and collaborations. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/anmol-kumar-b709762b7) — or explore my work at [aryankumar.vercel.app](https://aryankumar.vercel.app).
 
